@@ -1,10 +1,7 @@
-import {CMap1, CMap2, Graph} from './CMapJS/CMap/CMap.js';
 import Renderer from './CMapJS/Rendering/Renderer.js';
 import * as THREE from './CMapJS/Libs/three.module.js';
 import { OrbitControls } from './CMapJS/Libs/OrbitsControls.js';
 import Grid2D from './Grid2D.js';
-import Grid3D from './Grid3D.js';
-import {MCLookUpTable} from './MCLookup.js';
 
 
 
